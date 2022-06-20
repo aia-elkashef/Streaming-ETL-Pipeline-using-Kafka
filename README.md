@@ -19,16 +19,19 @@ Task 1.4: Download the Toll Traffic Simulator
 Task 1.5: Configure the Toll Traffic Simulator 
 
 Task 1.6: Run the Toll Traffic Simulator 
+
 ![alt text](https://github.com/aia-elkashef/Streaming-ETL-Pipeline-using-Kafka/blob/main/simulator_output.jpg)
 
 
 Task 1.7: Configure streaming_data_reader.py 
 
 Task 1.8: Run streaming_data_reader.py 
+
 ![alt text](https://github.com/aia-elkashef/Streaming-ETL-Pipeline-using-Kafka/blob/main/data_reader_output.jpg)
 
 
 Task 1.9: Health check of the streaming data pipeline 
+
 ![alt text](https://github.com/aia-elkashef/Streaming-ETL-Pipeline-using-Kafka/blob/main/output_rows.jpg)
 
 
